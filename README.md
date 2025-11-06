@@ -13,9 +13,9 @@ Notes and summaries from my CompTIA Security+ learning journey.
 - Python (log parsing automation)  
 
 ## Weekly Log
-**Week 1:** Studied TCP/IP, common ports, and OSI model layers.  
-**Week 2:** Reviewed malware types and mitigation strategies.  
-**Week 3:** Hands-on labs with Wireshark and Nmap.
+**Week 1 (Nov 10-16, 2025):**  
+- Studied TCP/IP layers & common ports.  
+- Set up Ubuntu VM and tested `ping` and `netstat`. 
 
 ## Goals  
 - Pass CompTIA Security+ (SY0-701) certification by March 2026  
