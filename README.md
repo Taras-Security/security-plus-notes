@@ -14,8 +14,6 @@ Notes and summaries from my CompTIA Security+ learning journey.
 
 ## Weekly Log
 **Week 1 (Nov 10-16, 2025):**  
-- Studied TCP/IP layers & common ports.  
-- Set up Ubuntu VM and tested `ping` and `netstat`. 
 
 ## Goals  
 - Pass CompTIA Security+ (SY0-701) certification by March 2026  
